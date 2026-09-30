@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://gbychina2022@outlook.com
+  icon: fas fa-envelope
+- title: bilibili
+  url: https://space.bilibili.com/699785034
+  icon: fab fa-bilibili
+- title: GitHub
+  url: https://github.com/Ph-socromi
+  icon: fab fa-github
