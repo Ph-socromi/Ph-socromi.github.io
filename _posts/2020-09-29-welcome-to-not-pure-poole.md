@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Not Pure Poole
-date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
+title: 老师神秘语录
+date: 20206-10-2 11：45 +0800
+last_modified_at: 20206-10-02 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
