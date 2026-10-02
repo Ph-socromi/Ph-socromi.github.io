@@ -8,15 +8,11 @@ toc:  true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
 {: .message }
+今天给你们叫下来，不是为了给你们扣分。我要想扣分你们早减25分退学了，用得着看监控？听歌不是伤天害理的事情，只是我们的一体机老了，7年了。（说了一大段话）今天把名字写在这里，看看你们以后还犯不犯，这次不扣分
+                                ——李飞
 
-First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
-
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
+你们他妈太不要脸了，学校明确规定不能干这个了，还他妈的搁哪玩，臭不要脸的东西
+                               ——魏超
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
