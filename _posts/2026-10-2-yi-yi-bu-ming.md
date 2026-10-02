@@ -2,8 +2,7 @@
 layout: post
 title: "点击输入标题"
 date: 2026-10-02 12:30:00 +0800
-Dates: 意义不明
-tags: [Dates]
+dates: 意义不明
 ---
 #**请输入文本**
 
